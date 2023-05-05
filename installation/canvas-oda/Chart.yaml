@@ -33,7 +33,7 @@ dependencies:
   - name: oda-crds
     version: "1.0.0"
     repository: 'file://../oda-crds'
-    condition: oda-cdrs.enabled
+    condition: oda-crds.enabled
   - name: keycloak
     version: "13.0.2"
     repository: 'https://charts.bitnami.com/bitnami'
